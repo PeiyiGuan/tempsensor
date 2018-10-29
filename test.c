@@ -7,8 +7,8 @@
 #include <wiringPi.h>
 #include "ifttt.h"
 
-float temp_diff(float a,float b);
 
+float temp_diff(float a,float b);
 
 int main (int argc, char *argv[]) {
  int firstMsg;
