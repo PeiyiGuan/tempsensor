@@ -1,5 +1,6 @@
-# What is IoT-Temperature-sensor
-IoT-Temperature-senso is an internet of things application runs on rasberry pi,an temperature sensor was connected to the pi, the pi will report the temperature reading to ifttt server.
+# What is IoT-temp-sensor
+
+IoT-temp-sensor is an internet of things application runs on rasberry pi,an temperature sensor was connected to the pi, the pi will report the temperature reading to ifttt server.
 
 # How to run it
 
