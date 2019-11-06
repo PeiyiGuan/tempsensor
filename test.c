@@ -74,7 +74,7 @@ if(argc!=2){
      /*first msg
       cast float to str
      */
-     ifttt("https://maker.ifttt.com/trigger/temp_changed/with/key/d5Vq1kWG7H9tlVCzsvxpzT",buf_new,buf_high,buf_low);
+     ifttt("https://maker.ifttt.com/trigger/temp_changed/with/key/{key}",buf_new,buf_high,buf_low);
      firstMsg=0;/*set to false*/
    }
    if(tempC<lowestTemp)lowestTemp=tempC;
